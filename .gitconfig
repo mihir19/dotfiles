@@ -128,7 +128,7 @@
 [commit]
 
 	# https://help.github.com/articles/signing-commits-using-gpg/
-	gpgsign = true
+	gpgsign = false
 
 [diff]
 
@@ -144,6 +144,10 @@
 
 	# Automatically correct and execute mistyped commands
 	autocorrect = 1
+
+[user]
+
+	email = mkavatkar157@gmail.com
 
 [merge]
 
