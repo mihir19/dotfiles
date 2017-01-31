@@ -145,9 +145,9 @@
 	# Automatically correct and execute mistyped commands
 	autocorrect = 1
 
-[user]
-
-	email = mkavatkar157@gmail.com
+# [user]
+#
+# 	email = mkavatkar157@gmail.com
 
 [merge]
 
